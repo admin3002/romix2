@@ -585,3 +585,12 @@
       border-radius: 20px;
     }
   }
+
+.objavljeno {
+    margin-top: 12px;
+    font-size: 14px;
+    font-weight: 600;
+    color: #666;
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+  }
